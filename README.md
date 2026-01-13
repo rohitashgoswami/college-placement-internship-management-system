@@ -1,2 +1,3 @@
-# college-placement-internship-portal
-Final Year Project – College Placement &amp; Internship Management System
+# College Placement & Internship Management System
+
+Final Year Project for BCA.
