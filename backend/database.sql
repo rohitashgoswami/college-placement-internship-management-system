@@ -21,7 +21,19 @@ CREATE TABLE students (
     name VARCHAR(100) NOT NULL,
     email VARCHAR(100) NOT NULL UNIQUE,
     roll_number VARCHAR(50) NOT NULL,
-    password VARCHAR(255) NOT NULL
+    password VARCHAR(255) NOT NULL,
+    phone VARCHAR(20) NULL,
+    location VARCHAR(100) NULL,
+    cgpa DECIMAL(4,2) NULL,
+    skills TEXT NULL,
+    bio TEXT NULL,
+    department VARCHAR(100) NULL,
+    graduation_year VARCHAR(10) NULL,
+    resume VARCHAR(255) NULL,
+    linkedin_url VARCHAR(255) NULL,
+    github_url VARCHAR(255) NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
 
 -- =========================
@@ -46,6 +58,38 @@ CREATE TABLE applications (
     student_id INT,
     internship_id INT,
     status VARCHAR(20) DEFAULT 'Pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     FOREIGN KEY (student_id) REFERENCES students(id),
     FOREIGN KEY (internship_id) REFERENCES internships(id)
+);
+
+-- =========================
+-- Saved Jobs Table
+-- =========================
+CREATE TABLE saved_jobs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT NOT NULL,
+    internship_id INT NOT NULL,
+    saved_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE KEY unique_saved_job (student_id, internship_id),
+    FOREIGN KEY (student_id) REFERENCES students(id) ON DELETE CASCADE,
+    FOREIGN KEY (internship_id) REFERENCES internships(id) ON DELETE CASCADE
+);
+
+-- =========================
+-- Interview Rounds Table
+-- =========================
+CREATE TABLE interview_rounds (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    application_id INT NOT NULL,
+    round_number INT NOT NULL,
+    round_title VARCHAR(100) NOT NULL,
+    round_status VARCHAR(30) DEFAULT 'Scheduled',
+    scheduled_at DATETIME NULL,
+    remarks TEXT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    UNIQUE KEY unique_application_round (application_id, round_number),
+    FOREIGN KEY (application_id) REFERENCES applications(id) ON DELETE CASCADE
 );
