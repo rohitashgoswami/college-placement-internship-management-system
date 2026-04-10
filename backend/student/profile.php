@@ -29,10 +29,10 @@ render_student_page_start('My Profile');
 
     <?php include "layout/sidebar.php"; ?>
 
-    <div class="flex-1">
+    <div class="ml-64 min-h-screen flex-1">
         <?php include "layout/topbar.php"; ?>
 
-        <div class="p-8 space-y-6">
+        <div class="p-8 pt-32 space-y-6">
             <?php render_student_flash(); ?>
 
             <div class="grid gap-6 lg:grid-cols-3">

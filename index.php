@@ -16,7 +16,7 @@ $result = mysqli_query($conn, $query);
 <body class="bg-gray-100">
 
     <!-- Navbar -->
-    <div class="bg-white shadow p-4 flex justify-between items-center">
+    <div class="sticky top-0 z-50 bg-white shadow p-4 flex justify-between items-center">
 
         <h1 class="text-xl font-bold text-blue-600">PlaceHub</h1>
 

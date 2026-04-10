@@ -35,10 +35,10 @@ render_student_page_start('Saved Jobs');
 
     <?php include "layout/sidebar.php"; ?>
 
-    <div class="flex-1">
+    <div class="ml-64 min-h-screen flex-1">
         <?php include "layout/topbar.php"; ?>
 
-        <div class="p-8">
+        <div class="p-8 pt-32">
             <?php render_student_flash(); ?>
 
             <div class="grid grid-cols-1 gap-6 xl:grid-cols-2">

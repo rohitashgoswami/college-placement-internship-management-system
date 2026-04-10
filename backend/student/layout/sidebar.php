@@ -1,4 +1,4 @@
-<div class="w-64 bg-slate-900 text-white min-h-screen flex flex-col justify-between">
+<div class="fixed inset-y-0 left-0 z-50 flex w-64 flex-col justify-between overflow-y-auto bg-slate-900 text-white">
 
     <div>
 

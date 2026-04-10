@@ -12,7 +12,7 @@ $admin_links = array(
     'change_password.php' => 'Settings'
 );
 ?>
-<div class="bg-slate-900 text-white">
+<div class="sticky top-0 z-50 bg-slate-900 text-white shadow-lg">
     <div class="mx-auto flex max-w-7xl flex-col gap-4 px-6 py-5 lg:flex-row lg:items-center lg:justify-between">
         <div>
             <p class="text-sm uppercase tracking-[0.25em] text-slate-400">Admin Module</p>

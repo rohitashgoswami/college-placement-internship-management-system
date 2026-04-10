@@ -39,10 +39,10 @@ render_student_page_start('Settings');
 
     <?php include "layout/sidebar.php"; ?>
 
-    <div class="flex-1">
+    <div class="ml-64 min-h-screen flex-1">
         <?php include "layout/topbar.php"; ?>
 
-        <div class="p-8">
+        <div class="p-8 pt-32">
             <div class="mx-auto max-w-3xl rounded-2xl bg-white p-6 shadow">
                 <h2 class="text-xl font-bold text-slate-900">Change Password</h2>
                 <p class="mt-1 text-sm text-slate-500">Use a strong password to protect your placement account.</p>

@@ -3,7 +3,7 @@ $student_page_title = isset($student_page_title) ? $student_page_title : 'Studen
 $student_page_description = isset($student_page_description) ? $student_page_description : 'Track internships, applications, and profile progress.';
 $student_badge = isset($student_badge) ? $student_badge : 'Student';
 ?>
-<div class="border-b bg-white px-6 py-4">
+<div class="fixed top-0 right-0 left-64 z-40 border-b bg-white px-6 py-4 shadow-sm">
     <div class="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
         <div>
             <h1 class="text-2xl font-bold text-slate-900"><?php echo htmlspecialchars($student_page_title); ?></h1>

@@ -52,10 +52,10 @@ render_student_page_start('Edit Profile');
 
     <?php include "layout/sidebar.php"; ?>
 
-    <div class="flex-1">
+    <div class="ml-64 min-h-screen flex-1">
         <?php include "layout/topbar.php"; ?>
 
-        <div class="p-8">
+        <div class="p-8 pt-32">
             <div class="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow">
                 <form method="POST" class="grid grid-cols-1 gap-5 md:grid-cols-2">
                     <div>
