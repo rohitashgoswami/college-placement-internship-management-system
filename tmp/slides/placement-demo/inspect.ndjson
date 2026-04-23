@@ -1,0 +1,346 @@
+{"kind":"deck","id":"placement-demo","slideCount":12,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"duaiou"}
+{"kind":"slide","slide":2,"id":"uzk9g7"}
+{"kind":"slide","slide":3,"id":"m8b6uf"}
+{"kind":"slide","slide":4,"id":"l1mu1e"}
+{"kind":"slide","slide":5,"id":"w65yv4"}
+{"kind":"slide","slide":6,"id":"dpt95g"}
+{"kind":"slide","slide":7,"id":"jp5uwu"}
+{"kind":"slide","slide":8,"id":"vkxk6f"}
+{"kind":"slide","slide":9,"id":"i0i8nh"}
+{"kind":"slide","slide":10,"id":"k0dh6u"}
+{"kind":"slide","slide":11,"id":"7xxzpa"}
+{"kind":"slide","slide":12,"id":"bb9wk5"}
+{"kind":"image","slide":1,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"3","role":"cover contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"4","role":"cover accent rule","shapeType":"rect","bbox":[64,86,7,455]}
+{"kind":"textbox","slide":1,"id":"5","role":"kicker","text":"FINAL YEAR PROJECT DEMO","textPreview":"FINAL YEAR PROJECT DEMO","textChars":23,"textLines":1,"bbox":[86,88,520,26]}
+{"kind":"textbox","slide":1,"id":"6","role":"cover title","text":"College Placement & Internship Management System","textPreview":"College Placement & Internship Management System","textChars":48,"textLines":1,"bbox":[82,130,785,184]}
+{"kind":"textbox","slide":1,"id":"7","role":"cover subtitle","text":"A PHP and MySQL portal for managing opportunities, student applications, interview rounds, and placement reports.","textPreview":"A PHP and MySQL portal for managing opportunities, student applications, interview rounds, and placement reports.","textChars":113,"textLines":1,"bbox":[86,326,610,86]}
+{"kind":"shape","slide":1,"id":"8","role":"cover moment panel","shapeType":"roundRect","bbox":[86,448,460,120]}
+{"kind":"textbox","slide":1,"id":"9","role":"cover moment","text":"Demo path: Home -> Login -> Student Flow -> Admin Flow -> Reports","textPreview":"Demo path: Home -> Login -> Student Flow -> Admin Flow -> Reports","textChars":65,"textLines":1,"bbox":[112,472,408,74]}
+{"kind":"image","slide":2,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":2,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":2,"id":"4","role":"header","text":"PROJECT PURPOSE","textPreview":"PROJECT PURPOSE","textChars":15,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":2,"id":"5","role":"header","text":"02 / 12","textPreview":"02 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":2,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":2,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":2,"id":"8","role":"title","text":"Why We Built It","textPreview":"Why We Built It","textChars":15,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":2,"id":"9","role":"subtitle","text":"The system connects students and placement administrators in one workflow.","textPreview":"The system connects students and placement administrators in one workflow.","textChars":74,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":2,"id":"10","role":"card panel: Problem","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":2,"id":"11","role":"card accent: Problem","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":2,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":2,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":2,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":2,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":2,"id":"16","role":"card label","text":"Problem","textPreview":"Problem","textChars":7,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"17","role":"card body: Problem","text":"Manual placement tracking is\nslow, scattered, and hard to\nreport.","textPreview":"Manual placement tracking is | slow, scattered, and hard to | report.","textChars":65,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":2,"id":"18","role":"card panel: Solution","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":2,"id":"19","role":"card accent: Solution","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":2,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":2,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":2,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":2,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":2,"id":"24","role":"card label","text":"Solution","textPreview":"Solution","textChars":8,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"25","role":"card body: Solution","text":"A single portal handles\nlistings, applications,\nstatus updates, and reports.","textPreview":"A single portal handles | listings, applications, | status updates, and reports.","textChars":76,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":2,"id":"26","role":"card panel: Users","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":2,"id":"27","role":"card accent: Users","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":2,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":2,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":2,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":2,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":2,"id":"32","role":"card label","text":"Users","textPreview":"Users","textChars":5,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"33","role":"card body: Users","text":"Students apply and track\nprogress; admins manage\nopportunities and results.","textPreview":"Students apply and track | progress; admins manage | opportunities and results.","textChars":75,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":3,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":3,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":3,"id":"4","role":"header","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":3,"id":"5","role":"header","text":"03 / 12","textPreview":"03 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":3,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":3,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":3,"id":"8","role":"title","text":"Main Modules at a Glance","textPreview":"Main Modules at a Glance","textChars":24,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":3,"id":"9","role":"subtitle","text":"The application is divided into public, student, admin, and database modules.","textPreview":"The application is divided into public, student, admin, and database modules.","textChars":77,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":3,"id":"10","role":"metric panel: Role-based areas: Student and Admin","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":3,"id":"11","role":"metric accent: Role-based areas: Student and Admin","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":3,"id":"12","role":"metric value","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":3,"id":"13","role":"metric label","text":"Role-based areas: Student and Admin","textPreview":"Role-based areas: Student and Admin","textChars":35,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":3,"id":"14","role":"metric note","text":"login.php routes users","textPreview":"login.php routes users","textChars":22,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":3,"id":"15","role":"metric panel: Core database tables","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":3,"id":"16","role":"metric accent: Core database tables","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":3,"id":"17","role":"metric value","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":3,"id":"18","role":"metric label","text":"Core database tables","textPreview":"Core database tables","textChars":20,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":3,"id":"19","role":"metric note","text":"database.sql schema","textPreview":"database.sql schema","textChars":19,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":3,"id":"20","role":"metric panel: Feature pages across dashboards and workflows","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":3,"id":"21","role":"metric accent: Feature pages across dashboards and workflows","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":3,"id":"22","role":"metric value","text":"12+","textPreview":"12+","textChars":3,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":3,"id":"23","role":"metric label","text":"Feature pages across dashboards and workflows","textPreview":"Feature pages across dashboards and workflows","textChars":45,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":3,"id":"24","role":"metric note","text":"backend source","textPreview":"backend source","textChars":14,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"image","slide":4,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":4,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":4,"id":"4","role":"header","text":"STARTUP","textPreview":"STARTUP","textChars":7,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":4,"id":"5","role":"header","text":"04 / 12","textPreview":"04 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":4,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":4,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":4,"id":"8","role":"title","text":"How to Start the Project","textPreview":"How to Start the Project","textChars":24,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":4,"id":"9","role":"subtitle","text":"Use XAMPP with Apache and MySQL, then open the portal from localhost.","textPreview":"Use XAMPP with Apache and MySQL, then open the portal from localhost.","textChars":69,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":4,"id":"10","role":"card panel: Database","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":4,"id":"11","role":"card accent: Database","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":4,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":4,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":4,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":4,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":4,"id":"16","role":"card label","text":"Database","textPreview":"Database","textChars":8,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"17","role":"card body: Database","text":"Import backend/database.sql\ninto\ncollege_placement_system.","textPreview":"Import backend/database.sql | into | college_placement_system.","textChars":58,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":4,"id":"18","role":"card panel: Connection","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":4,"id":"19","role":"card accent: Connection","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":4,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":4,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":4,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":4,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":4,"id":"24","role":"card label","text":"Connection","textPreview":"Connection","textChars":10,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"25","role":"card body: Connection","text":"MySQL uses localhost, root,\nblank password, and port\n3307.","textPreview":"MySQL uses localhost, root, | blank password, and port | 3307.","textChars":58,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":4,"id":"26","role":"card panel: Launch","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":4,"id":"27","role":"card accent: Launch","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":4,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":4,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":4,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":4,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":4,"id":"32","role":"card label","text":"Launch","textPreview":"Launch","textChars":6,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"33","role":"card body: Launch","text":"Open\n/college-placement-internship-management-system/index.php.","textPreview":"Open | /college-placement-internship-management-system/index.php.","textChars":63,"textLines":2,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":5,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":5,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":5,"id":"4","role":"header","text":"ENTRY FLOW","textPreview":"ENTRY FLOW","textChars":10,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":5,"id":"5","role":"header","text":"05 / 12","textPreview":"05 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":5,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":5,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":5,"id":"8","role":"title","text":"Public Pages and Login","textPreview":"Public Pages and Login","textChars":22,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":5,"id":"9","role":"subtitle","text":"The first screen shows latest opportunities and sends users to the right area.","textPreview":"The first screen shows latest opportunities and sends users to the right area.","textChars":78,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":5,"id":"10","role":"card panel: Home","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":5,"id":"11","role":"card accent: Home","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":5,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":5,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":5,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":5,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":5,"id":"16","role":"card label","text":"Home","textPreview":"Home","textChars":4,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"17","role":"card body: Home","text":"index.php displays recent\nopportunities and\nlogin/register actions.","textPreview":"index.php displays recent | opportunities and | login/register actions.","textChars":67,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":5,"id":"18","role":"card panel: Unified Login","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":5,"id":"19","role":"card accent: Unified Login","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":5,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":5,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":5,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":5,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":5,"id":"24","role":"card label","text":"Unified Login","textPreview":"Unified Login","textChars":13,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"25","role":"card body: Unified Login","text":"login.php lets users choose\nStudent or Admin from one\nform.","textPreview":"login.php lets users choose | Student or Admin from one | form.","textChars":59,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":5,"id":"26","role":"card panel: Registration","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":5,"id":"27","role":"card accent: Registration","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":5,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":5,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":5,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":5,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":5,"id":"32","role":"card label","text":"Registration","textPreview":"Registration","textChars":12,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"33","role":"card body: Registration","text":"Only student registration is\npublic; admin accounts are\nseeded.","textPreview":"Only student registration is | public; admin accounts are | seeded.","textChars":63,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":6,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":6,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":6,"id":"4","role":"header","text":"STUDENT SIDE","textPreview":"STUDENT SIDE","textChars":12,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":6,"id":"5","role":"header","text":"06 / 12","textPreview":"06 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":6,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":6,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":6,"id":"8","role":"title","text":"Student Workflow","textPreview":"Student Workflow","textChars":16,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":6,"id":"9","role":"subtitle","text":"Students can discover opportunities, apply, save jobs, and track outcomes.","textPreview":"Students can discover opportunities, apply, save jobs, and track outcomes.","textChars":74,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":6,"id":"10","role":"metric panel: Dashboard counters for student progress","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":6,"id":"11","role":"metric accent: Dashboard counters for student progress","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":6,"id":"12","role":"metric value","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":6,"id":"13","role":"metric label","text":"Dashboard counters for student progress","textPreview":"Dashboard counters for student progress","textChars":39,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":6,"id":"14","role":"metric note","text":"student dashboard","textPreview":"student dashboard","textChars":17,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":6,"id":"15","role":"metric panel: Job board results per page","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":6,"id":"16","role":"metric accent: Job board results per page","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":6,"id":"17","role":"metric value","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":6,"id":"18","role":"metric label","text":"Job board results per page","textPreview":"Job board results per page","textChars":26,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":6,"id":"19","role":"metric note","text":"pagination setting","textPreview":"pagination setting","textChars":18,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":6,"id":"20","role":"metric panel: Application per student per opportunity","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":6,"id":"21","role":"metric accent: Application per student per opportunity","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":6,"id":"22","role":"metric value","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":6,"id":"23","role":"metric label","text":"Application per student per opportunity","textPreview":"Application per student per opportunity","textChars":39,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":6,"id":"24","role":"metric note","text":"duplicate check","textPreview":"duplicate check","textChars":15,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"image","slide":7,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":7,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":7,"id":"4","role":"header","text":"STUDENT FEATURES","textPreview":"STUDENT FEATURES","textChars":16,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":7,"id":"5","role":"header","text":"07 / 12","textPreview":"07 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":7,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":7,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":7,"id":"8","role":"title","text":"What Students Can Do","textPreview":"What Students Can Do","textChars":20,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":7,"id":"9","role":"subtitle","text":"The student area supports the complete application journey.","textPreview":"The student area supports the complete application journey.","textChars":59,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":7,"id":"10","role":"card panel: Profile","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":7,"id":"11","role":"card accent: Profile","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":7,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":7,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":7,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":7,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":7,"id":"16","role":"card label","text":"Profile","textPreview":"Profile","textChars":7,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"17","role":"card body: Profile","text":"Students maintain contact\ndetails, CGPA, skills,\nresume, and links.","textPreview":"Students maintain contact | details, CGPA, skills, | resume, and links.","textChars":67,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":7,"id":"18","role":"card panel: Job Board","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":7,"id":"19","role":"card accent: Job Board","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":7,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":7,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":7,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":7,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":7,"id":"24","role":"card label","text":"Job Board","textPreview":"Job Board","textChars":9,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"25","role":"card body: Job Board","text":"Search, filter by type,\nlocation, deadline, and sort\nlistings.","textPreview":"Search, filter by type, | location, deadline, and sort | listings.","textChars":62,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":7,"id":"26","role":"card panel: Tracker","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":7,"id":"27","role":"card accent: Tracker","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":7,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":7,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":7,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":7,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":7,"id":"32","role":"card label","text":"Tracker","textPreview":"Tracker","textChars":7,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"33","role":"card body: Tracker","text":"My Applications shows status\nand interview round\ntimeline.","textPreview":"My Applications shows status | and interview round | timeline.","textChars":58,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":8,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":8,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":8,"id":"4","role":"header","text":"ADMIN SIDE","textPreview":"ADMIN SIDE","textChars":10,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":8,"id":"5","role":"header","text":"08 / 12","textPreview":"08 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":8,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":8,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":8,"id":"8","role":"title","text":"Admin Workflow","textPreview":"Admin Workflow","textChars":14,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":8,"id":"9","role":"subtitle","text":"Admins control listings, student records, applications, and reports.","textPreview":"Admins control listings, student records, applications, and reports.","textChars":68,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":8,"id":"10","role":"card panel: Dashboard","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":8,"id":"11","role":"card accent: Dashboard","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":8,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":8,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":8,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":8,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":8,"id":"16","role":"card label","text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"17","role":"card body: Dashboard","text":"Shows totals, pending\nreviews, alerts, recent\nactivity, and search.","textPreview":"Shows totals, pending | reviews, alerts, recent | activity, and search.","textChars":67,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":8,"id":"18","role":"card panel: Internships","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":8,"id":"19","role":"card accent: Internships","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":8,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":8,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":8,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":8,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":8,"id":"24","role":"card label","text":"Internships","textPreview":"Internships","textChars":11,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"25","role":"card body: Internships","text":"Admins add, manage, and\ndelete internship or\nplacement listings.","textPreview":"Admins add, manage, and | delete internship or | placement listings.","textChars":64,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":8,"id":"26","role":"card panel: Applications","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":8,"id":"27","role":"card accent: Applications","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":8,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":8,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":8,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":8,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":8,"id":"32","role":"card label","text":"Applications","textPreview":"Applications","textChars":12,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"33","role":"card body: Applications","text":"Admins filter records,\nselect, reject, or manage\ninterview rounds.","textPreview":"Admins filter records, | select, reject, or manage | interview rounds.","textChars":66,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":9,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":9,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":9,"id":"4","role":"header","text":"STATUS FLOW","textPreview":"STATUS FLOW","textChars":11,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":9,"id":"5","role":"header","text":"09 / 12","textPreview":"09 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":9,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":9,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":9,"id":"8","role":"title","text":"Application and Interview Lifecycle","textPreview":"Application and Interview Lifecycle","textChars":35,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":9,"id":"9","role":"subtitle","text":"Applications move from submission to admin decision with round tracking.","textPreview":"Applications move from submission to admin decision with round tracking.","textChars":72,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":9,"id":"10","role":"metric panel: Default status after student applies","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":9,"id":"11","role":"metric accent: Default status after student applies","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":9,"id":"12","role":"metric value","text":"Pending","textPreview":"Pending","textChars":7,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":9,"id":"13","role":"metric label","text":"Default status after student applies","textPreview":"Default status after student applies","textChars":36,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":9,"id":"14","role":"metric note","text":"applications table","textPreview":"applications table","textChars":18,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":9,"id":"15","role":"metric panel: Set when rounds are active","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":9,"id":"16","role":"metric accent: Set when rounds are active","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":9,"id":"17","role":"metric value","text":"Interview","textPreview":"Interview","textChars":9,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":9,"id":"18","role":"metric label","text":"Set when rounds are active","textPreview":"Set when rounds are active","textChars":26,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":9,"id":"19","role":"metric note","text":"application_rounds.php","textPreview":"application_rounds.php","textChars":22,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":9,"id":"20","role":"metric panel: Final successful outcome used in reports","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":9,"id":"21","role":"metric accent: Final successful outcome used in reports","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":9,"id":"22","role":"metric value","text":"Selected","textPreview":"Selected","textChars":8,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":9,"id":"23","role":"metric label","text":"Final successful outcome used in reports","textPreview":"Final successful outcome used in reports","textChars":40,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":9,"id":"24","role":"metric note","text":"reports.php","textPreview":"reports.php","textChars":11,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"image","slide":10,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":10,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":10,"id":"4","role":"header","text":"REPORTING","textPreview":"REPORTING","textChars":9,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":10,"id":"5","role":"header","text":"10 / 12","textPreview":"10 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":10,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":10,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":10,"id":"8","role":"title","text":"Reports and Placement Insights","textPreview":"Reports and Placement Insights","textChars":30,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":10,"id":"9","role":"subtitle","text":"The reports page converts operational data into presentation-ready numbers.","textPreview":"The reports page converts operational data into presentation-ready numbers.","textChars":75,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":10,"id":"10","role":"card panel: Summary","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":10,"id":"11","role":"card accent: Summary","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":10,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":10,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":10,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":10,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":10,"id":"16","role":"card label","text":"Summary","textPreview":"Summary","textChars":7,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"17","role":"card body: Summary","text":"Total students, internships,\napplications, selections,\nand rate.","textPreview":"Total students, internships, | applications, selections, | and rate.","textChars":64,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":10,"id":"18","role":"card panel: Breakdowns","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":10,"id":"19","role":"card accent: Breakdowns","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":10,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":10,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":10,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":10,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":10,"id":"24","role":"card label","text":"Breakdowns","textPreview":"Breakdowns","textChars":10,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"25","role":"card body: Breakdowns","text":"Application status and\ninternship type\ndistributions.","textPreview":"Application status and | internship type | distributions.","textChars":53,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":10,"id":"26","role":"card panel: Performance","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":10,"id":"27","role":"card accent: Performance","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":10,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":10,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":10,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":10,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":10,"id":"32","role":"card label","text":"Performance","textPreview":"Performance","textChars":11,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"33","role":"card body: Performance","text":"Recruiter activity and top\nstudent participation lists.","textPreview":"Recruiter activity and top | student participation lists.","textChars":55,"textLines":2,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":11,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":11,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":11,"id":"4","role":"header","text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":11,"id":"5","role":"header","text":"11 / 12","textPreview":"11 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":11,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":11,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":11,"id":"8","role":"title","text":"How We Implemented It","textPreview":"How We Implemented It","textChars":21,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":11,"id":"9","role":"subtitle","text":"The project uses PHP, MySQL, sessions, reusable includes, and Tailwind styling.","textPreview":"The project uses PHP, MySQL, sessions, reusable includes, and Tailwind styling.","textChars":79,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":11,"id":"10","role":"card panel: Backend","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":11,"id":"11","role":"card accent: Backend","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":11,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":11,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":11,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":11,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":11,"id":"16","role":"card label","text":"Backend","textPreview":"Backend","textChars":7,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"17","role":"card body: Backend","text":"PHP pages process forms, run\nMySQL queries, and redirect\nafter actions.","textPreview":"PHP pages process forms, run | MySQL queries, and redirect | after actions.","textChars":71,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":11,"id":"18","role":"card panel: Security","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":11,"id":"19","role":"card accent: Security","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":11,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":11,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":11,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":11,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":11,"id":"24","role":"card label","text":"Security","textPreview":"Security","textChars":8,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"25","role":"card body: Security","text":"Sessions protect\nstudent/admin pages;\npasswords use hashing for\nstudents.","textPreview":"Sessions protect | student/admin pages; | passwords use hashing for | students.","textChars":73,"textLines":4,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":11,"id":"26","role":"card panel: UI","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":11,"id":"27","role":"card accent: UI","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":11,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":11,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":11,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":11,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":11,"id":"32","role":"card label","text":"UI","textPreview":"UI","textChars":2,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"33","role":"card body: UI","text":"Tailwind CSS builds\nresponsive dashboards,\ncards, forms, and tables.","textPreview":"Tailwind CSS builds | responsive dashboards, | cards, forms, and tables.","textChars":68,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}
+{"kind":"image","slide":12,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":12,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":12,"id":"4","role":"header","text":"LIVE DEMO SCRIPT","textPreview":"LIVE DEMO SCRIPT","textChars":16,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":12,"id":"5","role":"header","text":"12 / 12","textPreview":"12 / 12","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":12,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":12,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":12,"id":"8","role":"title","text":"Recommended Demonstration Order","textPreview":"Recommended Demonstration Order","textChars":31,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":12,"id":"9","role":"subtitle","text":"Follow this sequence to show the project clearly within limited time.","textPreview":"Follow this sequence to show the project clearly within limited time.","textChars":69,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":12,"id":"10","role":"card panel: 1. Student","shapeType":"roundRect","bbox":[84,402,355.3333333333333,204]}
+{"kind":"shape","slide":12,"id":"11","role":"card accent: 1. Student","shapeType":"rect","bbox":[84,402,8,204]}
+{"kind":"shape","slide":12,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,426,54,54]}
+{"kind":"shape","slide":12,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,455,6,12]}
+{"kind":"shape","slide":12,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,447,6,20]}
+{"kind":"shape","slide":12,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,440,6,27]}
+{"kind":"textbox","slide":12,"id":"16","role":"card label","text":"1. Student","textPreview":"1. Student","textChars":10,"textLines":1,"bbox":[172,424,247.33333333333331,28]}
+{"kind":"textbox","slide":12,"id":"17","role":"card body: 1. Student","text":"Register or login, browse\njob board, save a job, and\napply.","textPreview":"Register or login, browse | job board, save a job, and | apply.","textChars":59,"textLines":3,"bbox":[108,488,307.3333333333333,96]}
+{"kind":"shape","slide":12,"id":"18","role":"card panel: 2. Admin","shapeType":"roundRect","bbox":[463.3333333333333,402,355.3333333333333,204]}
+{"kind":"shape","slide":12,"id":"19","role":"card accent: 2. Admin","shapeType":"rect","bbox":[463.3333333333333,402,8,204]}
+{"kind":"shape","slide":12,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,426,54,54]}
+{"kind":"shape","slide":12,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,444,10,10]}
+{"kind":"shape","slide":12,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,453,10,10]}
+{"kind":"shape","slide":12,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,451,19,3]}
+{"kind":"textbox","slide":12,"id":"24","role":"card label","text":"2. Admin","textPreview":"2. Admin","textChars":8,"textLines":1,"bbox":[551.3333333333333,424,247.33333333333331,28]}
+{"kind":"textbox","slide":12,"id":"25","role":"card body: 2. Admin","text":"Add a listing, review the\nstudent application, update\nstatus.","textPreview":"Add a listing, review the | student application, update | status.","textChars":61,"textLines":3,"bbox":[487.3333333333333,488,307.3333333333333,96]}
+{"kind":"shape","slide":12,"id":"26","role":"card panel: 3. Result","shapeType":"roundRect","bbox":[842.6666666666666,402,355.3333333333333,204]}
+{"kind":"shape","slide":12,"id":"27","role":"card accent: 3. Result","shapeType":"rect","bbox":[842.6666666666666,402,8,204]}
+{"kind":"shape","slide":12,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,426,54,54]}
+{"kind":"shape","slide":12,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,441,26,13]}
+{"kind":"shape","slide":12,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,450,26,13]}
+{"kind":"shape","slide":12,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,459,20,10]}
+{"kind":"textbox","slide":12,"id":"32","role":"card label","text":"3. Result","textPreview":"3. Result","textChars":9,"textLines":1,"bbox":[930.6666666666666,424,247.33333333333331,28]}
+{"kind":"textbox","slide":12,"id":"33","role":"card body: 3. Result","text":"Show student tracker,\ninterview rounds, reports,\nand future scope.","textPreview":"Show student tracker, | interview rounds, reports, | and future scope.","textChars":66,"textLines":3,"bbox":[866.6666666666666,488,307.3333333333333,96]}

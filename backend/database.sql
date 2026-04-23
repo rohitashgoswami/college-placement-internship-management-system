@@ -9,9 +9,15 @@ USE college_placement_system;
 -- =========================
 CREATE TABLE admin (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    username VARCHAR(50) NOT NULL,
+    username VARCHAR(50) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL
 );
+
+-- Default admin account for fresh local setups
+-- Username: admin
+-- Password: admin123
+INSERT INTO admin (username, password)
+VALUES ('admin', 'admin123');
 
 -- =========================
 -- Student Table
